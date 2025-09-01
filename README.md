@@ -5,6 +5,6 @@
  pip install requests
 ```
 2. Запустить скрипт:
-   ```
+```
 python cat_facts.py
 ```
